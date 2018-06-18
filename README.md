@@ -31,10 +31,23 @@ The visualizations were created through an iterative process. Every time after
 I created a draft of the visualizations, I showed it to multiple people,
 obtained feedbacks from them, and made improvements using those feedbacks. The
 detail of the process, including the link to each draft, is recorded in
-`Tableau Story Project Report.pdf`. The final draft of the visualizations can be
-viewed
+`Tableau Story Project Report.pdf`. The final iteration of the visualizations
+can be viewed
 [here](https://public.tableau.com/profile/xiang.hui.low#!/vizhome/FlightsDataVisualizations-Draft4/FlightDelaysTableauStory).
 
 ## Datasets
 
-- 
+- `airline_delay_jan10_mar18.csv`: Original dataset downloaded from the Bureau
+of Transportation Statistics.
+- `airline_delay_jan10_mar18_master.xlsx`: Wrangled dataset, which contains a
+date column. Saved in `.xlsx` format for easier processing in Tableau. The
+wrangling process and the codes involved can be found in
+`flights_data_assess_wrangle.ipynb`.
+
+## Other Files
+
+- `Tableau Story Project Report.pdf`: A report that records the process of
+creating each iteration of the visualizations, the thoughts involved, feedbacks
+received, and URLs to each iteration.
+- `flights_data_assess_wrangle.ipynb`: Jupyter notebook that contains details
+and codes of the data wrangling process.
