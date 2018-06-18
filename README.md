@@ -24,3 +24,17 @@ quarter of the year and decreases in the third and fourth quarter of the year.
 national air system, weather, and security reasons. This proportion remains
 fairly constant over time.
 - Airports with vary in delay time regardless of the number of arrived flights.
+
+## Process of Creating the Visualizations
+
+The visualizations were created through an iterative process. Every time after
+I created a draft of the visualizations, I showed it to multiple people,
+obtained feedbacks from them, and made improvements using those feedbacks. The
+detail of the process, including the link to each draft, is recorded in
+`Tableau Story Project Report.pdf`. The final draft of the visualizations can be
+viewed
+[here](https://public.tableau.com/profile/xiang.hui.low#!/vizhome/FlightsDataVisualizations-Draft4/FlightDelaysTableauStory).
+
+## Datasets
+
+- 
